@@ -24,18 +24,106 @@ I’m especially excited about **RAG (Retrieval-Augmented Generation) applicatio
 
 # 🛠️ Skills & Technologies  
 
-**Languages & Frameworks:**  
-- Kotlin | Python | React.js | SQL  
+### 💻 Programming Languages  
+- **Kotlin** (Android development, Jetpack libraries)  
+- **Python** (AI/ML, data science, RAG apps)  
+- **JavaScript / React.js** (frontend development, UI components)  
+- **SQL** (relational databases, queries, schema design)  
 
-**Cloud & Backend:**  
-- Firebase | AWS | REST APIs  
+### 📱 Mobile Development  
+- Android Studio, Kotlin, XML UI Design  
+- Firebase integration (Authentication, Realtime DB, Firestore, Storage, Cloud Messaging)  
 
-**Other Skills:**  
-- Problem Solving | System Design | Database Management | Git/GitHub  
+### 🌐 Web Development  
+- React.js (component-based UI, hooks, state management)  
+- Node.js & Express (REST APIs, backend logic)  
+- HTML5, CSS3, JavaScript (fundamentals of frontend design)  
+
+### 🧠 AI / Machine Learning  
+- Retrieval-Augmented Generation (RAG)  
+- LangChain & OpenAI APIs  
+- TensorFlow / Keras (deep learning, image classification)  
+- Scikit-learn, NumPy, Pandas (data processing, ML models)  
+- ChromaDB, Pinecone (vector databases for embeddings)  
+
+### ☁️ Cloud & DevOps  
+- Firebase (Realtime DB, Hosting, Auth, Functions)  
+- AWS (EC2, S3, Lambda basics, cloud deployment)  
+- Git & GitHub (version control, collaboration, CI/CD basics)  
+
+### 🗄️ Databases  
+- **SQL** (MySQL, SQLite)  
+- **NoSQL** (Firebase Realtime Database, Firestore, MongoDB basics)  
+
+### ⚡ Tools & Platforms  
+- Android Studio | VS Code | PyCharm | Postman  
+- Streamlit (for AI-powered web apps)  
+- Mapbox SDK (maps & navigation)  
+- Picasso / Glide (image handling in Android apps)  
+
+### 🎯 Other Skills  
+- Strong problem-solving & debugging  
+- Software architecture & modular design  
+- API integration & authentication flows  
+- Research-driven development (AI + RAG)  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=kotlin,python,react,firebase,aws,sqlite,git,github" />
 </p>
+
+---
+
+# 📂 Featured Projects  
+
+### 🚀 Retrieval-Augmented Generation (RAG) Applications  
+- **Description:** Designed intelligent apps that combine **LLMs with external knowledge bases** for accurate, context-rich answers.  
+- **Tech Stack:** Python, LangChain, Vector Databases (ChromaDB, Pinecone), OpenAI API.  
+- **Highlights:**  
+  - Built RAG-powered chatbots for real-time information retrieval.  
+  - Deployed scalable pipelines on AWS.  
+  - Optimized embeddings for faster query response times.  
+
+---
+
+### 📄 RAG-based PDF Research Assistant  
+- **Description:** A smart assistant that allows researchers to **upload PDFs and query them using natural language**.  
+- **Tech Stack:** Python, LangChain, OpenAI API, ChromaDB, Streamlit.  
+- **Highlights:**  
+  - Processes academic papers and extracts key insights.  
+  - Answers context-aware questions directly from PDFs.  
+  - Reduces manual searching through lengthy research documents.  
+
+---
+
+### 🌿 BioScout – Species Identification System  
+- **Description:** An AI-powered app developed to **identify species in the Margalla Hills region** and suggest **related species nearby**.  
+- **Tech Stack:** Python, TensorFlow/Keras (Image Recognition), Firebase.  
+- **Highlights:**  
+  - Trained image classification model for species detection.  
+  - Provides ecological insights by showing **species close to the identified one**.  
+  - Built as a conservation tool to aid researchers and wildlife enthusiasts.  
+
+---
+
+### ✈️ Travel Planner App (Final Year Project)  
+- **Description:** A smart travel companion app to help users **plan, organize, and manage trips** with extra features like house rental and recommendations.  
+- **Tech Stack:** Kotlin, Firebase Realtime Database, Android Studio.  
+- **Highlights:**  
+  - Trip creation, saving, and sharing.  
+  - Integration with Firebase for real-time data sync.  
+  - House rental feature with admin/user roles.  
+  - Recommendation engine for travel destinations.  
+
+---
+
+### 🗺️ Navigation & Route Finder App  
+- **Description:** Real-time navigation app to **find routes and draw them on the map**.  
+- **Tech Stack:** Kotlin, Mapbox SDK, Android Studio.  
+- **Highlights:**  
+  - Fetch user’s current location in real-time.  
+  - Destination input via search bar.  
+  - Route calculation and polyline drawing on the map.  
+  - Future scope: Real-time traffic updates and voice navigation.  
 
 ---
 
@@ -76,18 +164,3 @@ I’m especially excited about **RAG (Retrieval-Augmented Generation) applicatio
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer"/>
 </p>
-
-<!--
-**Abdullahxfarooqui/Abdullahxfarooqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
