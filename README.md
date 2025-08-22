@@ -127,14 +127,6 @@ I’m especially excited about **RAG (Retrieval-Augmented Generation) applicatio
 
 ---
 
-# 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullahfarooqui&show_icons=true&theme=radical" alt="stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahfarooqui&theme=radical" alt="streak" height="160"/>
-</p>
-
----
 
 # 🌐 Connect with Me  
 
